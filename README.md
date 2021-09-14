@@ -21,7 +21,7 @@ yarn add @sebowy/builder-guard
 - examples with timeouts
 
 ```js
-import createBuilderGuard, { Builder } from '.';
+import createBuilderGuard, { Builder } from '@sebowy/builder-guard';
 
 interface ICarData {
   color: 'red' | 'green' | 'blue';

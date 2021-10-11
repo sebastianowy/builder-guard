@@ -1,5 +1,5 @@
 {
-  "name": "@sebowy/builder-guard",
+  "name": "@sebastianowy/builder-guard",
   "version": "1.0.1",
   "description": "\"BuilderGuard\" organizes promises execution",
   "main": "./dist/umd/index.js",
